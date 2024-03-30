@@ -3,7 +3,7 @@
 **Description:**
 This repository contains a Selenium test automation framework built to test a dummy ecommerce website. The framework is designed to streamline the testing process and ensure the functionality and reliability of the website.
 
-**Website Under Test:** [Rahul Shetty Academy Ecommerce](https://rahulshettyacademy.com/client/auth/login) 🌐
+**Website Under Test:** [Rahul Shetty Academy Ecommerce](https://rahulshettyacademy.com/client) 🌐
 
 **Features:**
 - Selenium WebDriver for browser automation.
