@@ -39,6 +39,12 @@ mvn clean install
 
 8. Run the tests using TestNG or Maven commands.
 
+**ScreenShots of StandAlone TestScript**
+![image](https://github.com/atikvibs1326/Selenium_Framework_for_Ecommerce/assets/64660852/0b2ada62-ee26-4586-b60d-1055027cc504)
+![image](https://github.com/atikvibs1326/Selenium_Framework_for_Ecommerce/assets/64660852/6cc1ea5c-34e3-4bc1-870a-e81cb5630615)
+
+
+
 **Usage:**
 - To run all tests, execute:
 ```bash
