@@ -18,7 +18,7 @@ This repository contains a Selenium test automation framework built to test a du
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/Selenium-Ecommerce-Test-Automation.git
+git clone https://github.com/atikvibs1326/Selenium_Framework_for_Ecommerce.git
 ```
 
 2. Ensure you have Java Development Kit (JDK) installed on your machine. You can download and install JDK from the official Oracle website.
@@ -41,6 +41,8 @@ mvn clean install
 
 **ScreenShots of StandAlone TestScript**
 ![image](https://github.com/atikvibs1326/Selenium_Framework_for_Ecommerce/assets/64660852/0b2ada62-ee26-4586-b60d-1055027cc504)
+
+
 ![image](https://github.com/atikvibs1326/Selenium_Framework_for_Ecommerce/assets/64660852/6cc1ea5c-34e3-4bc1-870a-e81cb5630615)
 
 
@@ -59,7 +61,18 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 **Contact:**
-For any inquiries or support, feel free to contact [Your Name] <your.email@example.com>.
+For any inquiries or support, feel free to contact Atikraja Khochikar <atikrajakhochikar@gmail.com>.
 
 **Acknowledgements:**
 Special thanks to the creators of Selenium, TestNG, Maven, and other open-source tools used in this project. 🙌🎉
+
+
+## Project Status
+This project is currently under development, and certain features are yet to be implemented. 
+
+### Pending Tasks:
+- [ ] Implement Cucumber for Behavior-Driven Development (BDD) testing.
+- [ ] Write feature files with Gherkin syntax to describe test scenarios.
+- [ ] Create step definitions to automate tests using Selenium WebDriver.
+
+Note: The implementation of Cucumber for BDD testing is planned and will be added in future iterations of the project. Meanwhile, testing is being conducted on StandAlone Scripts that are developed 
